@@ -26,11 +26,9 @@ public class Card {
 	public String suit() {
 		return suit;
 	}
-
 	public String rank() {
 		return rank;
 	}
-
 	public int pointValue() {
 		return pointValue;
 	}
